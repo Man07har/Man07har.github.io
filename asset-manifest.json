@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b77a982.css",
+    "main.js": "/static/js/main.2bc74880.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.5a8d9f9a4c2702ee1d19.jpg",
+    "static/media/GWOC.png": "/static/media/GWOC.5b28242cd3e74aa7e394.png",
+    "static/media/hacktoberBadge.png": "/static/media/hacktoberBadge.a9ff6c8fba4f43d15295.png",
+    "static/media/codeTheRush.png": "/static/media/codeTheRush.773ed912c786db5c9ea1.png",
+    "static/media/Manohar-Kumar-P-Resume.pdf": "/static/media/Manohar-Kumar-P-Resume.2f7fb5fea82f389f92a6.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/hacktoberfest.jpg": "/static/media/hacktoberfest.79fb57df8fccf81c95f7.jpg",
+    "static/media/postMan.png": "/static/media/postMan.e984e8575103da86f890.png",
+    "static/media/codeEditor.svg": "/static/media/codeEditor.1f82edf849e462c4f745c54beedef44d.svg",
+    "static/media/about.svg": "/static/media/about.5a09405d67908ff57c80145d7ccb89ff.svg",
+    "static/media/chatify.svg": "/static/media/chatify.29ac6577792d84348ed705e25b7e3f8f.svg",
+    "static/media/blog.svg": "/static/media/blog.8a1452c5aaac4bfc6148dc0bd80e87a5.svg",
+    "static/media/avatar.svg": "/static/media/avatar.fa7845edcd17a14cddabc30bcc7c6b26.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.4b77a982.css.map": "/static/css/main.4b77a982.css.map",
+    "main.2bc74880.js.map": "/static/js/main.2bc74880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b77a982.css",
+    "static/js/main.2bc74880.js"
+  ]
+}
